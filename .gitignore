@@ -1,0 +1,10 @@
+*~
+compile
+config.*
+Makefile
+Makefile.in
+autom4te.cache
+configure
+depcomp
+install-sh
+missing
